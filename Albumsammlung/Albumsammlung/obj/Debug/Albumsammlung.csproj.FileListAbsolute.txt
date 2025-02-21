@@ -1,0 +1,33 @@
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.exe.config
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.exe
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.pdb
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.AssemblyReference.cache
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.Form1.resources
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.Properties.Resources.resources
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.GenerateResource.cache
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.exe
+C:\Users\jesse\Documents\Schule\14.01.2025\Albungssamlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.pdb
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.exe.config
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.exe
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.pdb
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.AssemblyReference.cache
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.SuggestedBindingRedirects.cache
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.Form1.resources
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.Properties.Resources.resources
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.GenerateResource.cache
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.CoreCompileInputs.cache
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.exe
+\\BK174518\M.Schugt\Download\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.pdb
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.Form1.resources
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.FormChange.resources
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.FormChart.resources
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.Properties.Resources.resources
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.GenerateResource.cache
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csproj.CoreCompileInputs.cache
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.exe
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.pdb
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\obj\Debug\Albumsammlung.csprojAssemblyReference.cache
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.exe.config
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.exe
+\\BK174518\M.Schugt\Download\Albumsammlung 1\Albumsammlung\Albumsammlung\Albumsammlung\bin\Debug\Albumsammlung.pdb
